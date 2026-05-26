@@ -36,4 +36,8 @@ When you make a change, add an entry under a new version heading using these cat
 
 ---
 
-Built and maintained by [Swift Tech Co.](https://swifttechco.com) | Custom software, FinTech, AI automation, and web development across North America.
+**Built and maintained by [Swift Tech Co.](https://swifttechco.com)**
+
+FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
+
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)

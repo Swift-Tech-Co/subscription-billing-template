@@ -4,32 +4,28 @@ This document outlines planned improvements for this project.
 
 ## Current Version: 1.0
 
-The current release is a fully functional, self-contained HTML tool with:
-- Core calculation logic matching the live version at swifttechco.com
-- Swift Tech Co. branding and visual design
-- Mobile-responsive layout
-- Zero external JS dependencies
-- Related resource links and service information
+Initial release. See [CHANGELOG.md](CHANGELOG.md) for what is included.
 
 ## Planned: Version 1.1
 
-- [ ] Add shareable result URL (encode inputs in query string)
-- [ ] Add PDF export for estimates and results
-- [ ] Improve mobile layout for smaller screens
-- [ ] Add tooltip explanations for each input field
+- [ ] Expanded data coverage (additional platforms, regions, or industries)
+- [ ] Additional language ports or framework implementations
+- [ ] Improved documentation with architecture diagrams
+- [ ] Unit test coverage for core logic
+- [ ] CI/CD pipeline for automated testing
 
 ## Planned: Version 1.2
 
-- [ ] Add comparison mode (run two scenarios side by side)
-- [ ] Add currency conversion for non-USD users
-- [ ] Expand benchmark data with additional industries or platforms
-- [ ] Add a "What affects this estimate" explainer panel
+- [ ] API endpoint for programmatic access
+- [ ] Embed mode for third-party integration
+- [ ] Multi-language support
+- [ ] Currency conversion for non-USD users (where applicable)
 
 ## Future Considerations
 
-- GitHub Discussions integration for Q and A
-- API endpoint for programmatic access (read-only, no auth)
-- Embed mode for third-party sites (iframe-friendly)
+- GitHub Discussions integration for community Q and A
+- Companion blog posts and guides on swifttechco.com
+- Integration examples across Python, TypeScript, Go, and Rust
 
 ## How to Suggest Features
 
@@ -37,4 +33,8 @@ Open a GitHub Issue with the label `enhancement`. Describe the use case, not jus
 
 ---
 
-Built and maintained by [Swift Tech Co.](https://swifttechco.com) | Custom software, FinTech, AI automation, and web development across North America.
+**Built and maintained by [Swift Tech Co.](https://swifttechco.com)**
+
+FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
+
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
