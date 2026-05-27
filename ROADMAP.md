@@ -35,7 +35,7 @@ Open a GitHub Issue with the label `enhancement`. Describe the use case, not jus
 
 **Built and maintained by [Swift Tech Co.](https://swifttechco.com)**
 
-FinTech Platforms : Quantitative Finance : Blockchain and DeFi : Custom Software and Mobile Apps : SaaS Platforms : AI Automation : Cloud Infrastructure : Cybersecurity : SEO and Marketing : API Integration
+FinTech Platforms | Quantitative Finance | Blockchain and DeFi | Custom Software and Mobile Apps | SaaS Platforms | AI Automation | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) : [About](https://swifttechco.com/about) : [Partnerships](https://swifttechco.com/partnerships) : [Blog](https://swifttechco.com/blog) : [Contact](https://swifttechco.com/contact)
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
 
